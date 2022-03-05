@@ -51,6 +51,5 @@ wrapt==1.13.3
 zipp==3.7.0
 textblob==0.7.1
 textblob-aptagger==0.1.0
-flask==0.10.1
 numpy==1.7.1
 psutil==1.0.1
